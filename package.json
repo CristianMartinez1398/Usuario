@@ -1,0 +1,11 @@
+{
+  "name": "usuario",
+  "version": "1.0.0",
+  "description": "Estoy usando un programa para poder programar en BACK-END",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tecnico Cristian Martinez",
+  "license": "ISC"
+}
